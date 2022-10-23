@@ -1,2 +1,2 @@
-# spicyfood
-Hello Guys! This is my first project at OdinProject and I am excited to accomplish this project.
+##  Spicyfood is a project based on THE ODIN PROJECT!
+The projects includes the HTML, CSS and JS file.
